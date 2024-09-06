@@ -4,3 +4,5 @@ testes/
 # Ignorar todos so arquivos no formato .log
 *.log
 
+#tornar o arquivo importante e fazer controle de versao mesmo que outras regras digam o contrario
+!relatorio 3.log
