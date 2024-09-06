@@ -1,0 +1,6 @@
+#ignorar a pasta testes
+testes/
+
+# Ignorar todos so arquivos no formato .log
+*.log
+
